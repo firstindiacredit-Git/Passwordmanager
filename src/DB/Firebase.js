@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore"; //
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: z,
+  apiKey: "AIzaSyCmxUKqdp1A5yd5uYDYCQDZIJA9uZLUwec",
   authDomain: "passwordgenerator-322a1.firebaseapp.com",
   projectId: "passwordgenerator-322a1",
   storageBucket: "passwordgenerator-322a1.appspot.com",
